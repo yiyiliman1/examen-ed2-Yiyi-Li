@@ -1,0 +1,4 @@
+*events
+layers/**/*.class
+*packege-lock.json
+node_modules/*
